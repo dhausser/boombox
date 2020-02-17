@@ -1,4 +1,5 @@
 
+// Scripting Boombox animation and interaction
 const Animation = require('Animation');
 const Scene = require('Scene');
 const TouchGestures = require('TouchGestures');
